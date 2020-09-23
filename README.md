@@ -1,2 +1,2 @@
-# hobbyhorse
-## Hobby Horse is a concept piece.
+# Blog
+## This is a work in progress
